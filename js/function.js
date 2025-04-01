@@ -1,3 +1,3 @@
-function wilson2(){
-    console.log('test2');
+function hello(){
+    console.log('Hello!');
 }
