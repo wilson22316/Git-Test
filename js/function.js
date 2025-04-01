@@ -1,3 +1,2 @@
-function wilson1(){
-    console.log('test');
-}
+function wilson2(){
+    console.log('test2');
